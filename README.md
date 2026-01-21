@@ -1,5 +1,5 @@
 <!-- 𝗫𝗤𝗨𝗘𝗘𝗡 𝗦𝗧𝗥𝗜𝗡𝗚 𝗚𝗘𝗡 -->
-<h1 align="center">BABULXBOT</h1>
+<h1 align="center">XQUEENXBOT</h1>
 
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
